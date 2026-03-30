@@ -1,4 +1,5 @@
- Human Activity Recognition using Smartphone Data
+ Human Activity Recognition using machine learning
+ 
 
 this is my first machine learning project 
 
